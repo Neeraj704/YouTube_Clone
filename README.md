@@ -6,4 +6,5 @@ A simple clone of the YouTube front end built using only HTML and CSS.
 # Features!
 
 • YouTube-style homepage layout
+
 • Responsive design (desktop and mobile views)
